@@ -177,26 +177,24 @@ dev_dependencies:
 
 ## 📱 Screenshots
 
-### Welcome Screen
-- Aesthetic design with custom fonts and images
-- Gradient buttons with smooth animations
-- Language picker in app bar
+### 🏠 Home Screen Features
+![Home Screen English](screenshots/01_home_screen_english.png)
+*Home screen showing "Our Products" with PageView, GridView, and Hot Offers section*
 
-### Authentication Screens
-- Sign-up form with full validation
-- Sign-in form with clean design
-- Reset password functionality
+![Home Screen Arabic](screenshots/02_home_screen_arabic.png)
+*Arabic language support with RTL layout and localized text "منتجاتنا" and "العروض الساخنة"*
 
-### Shopping Home Screen
-- Featured products in horizontal PageView
-- Product grid with 2 items per row
-- Hot offers section with scrollable list
-- Add to cart functionality with feedback
+### 🎯 Welcome & Authentication
+![Welcome Screen](screenshots/03_welcome_screen.png)
+*Welcome screen with "Shopping App" title, custom styling, and responsive image layout*
 
-### Arabic Language Support
-- Complete RTL support
-- All UI elements translated
-- Proper Arabic typography
+![Sign Up Screen](screenshots/04_signup_screen.png)
+*Create Account form with Full Name, Email, Password, and Confirm Password validation*
+
+![Sign In Screen](screenshots/05_signin_screen.png)
+*Sign In form with "Welcome Back!" message and "Forgot Password" functionality*
+
+> **Note**: Screenshots showcase the complete app functionality including English/Arabic language support, authentication flows, and shopping features.
 
 ## 🔧 Technical Features
 
@@ -227,7 +225,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Flutter team for the amazing framework
 - Material Design for design guidelines
 - Unsplash for placeholder images
 - Google Fonts for typography resources
