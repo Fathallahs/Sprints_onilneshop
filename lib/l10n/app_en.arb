@@ -1,0 +1,208 @@
+{
+  "sampleAppTitle": "Sample App",
+  "@sampleAppTitle": {
+    "description": "Title for the app bar on the authentication screen"
+  },
+  "tutorialKartTitle": "TutorialKart",
+  "@tutorialKartTitle": {
+    "description": "Title for TutorialKart on the authentication screen"
+  },
+  "signInText": "Sign in",
+  "@signInText": {
+    "description": "Text for sign in section"
+  },
+  "userNameLabel": "User Name",
+  "@userNameLabel": {
+    "description": "Label for user name input field"
+  },
+  "forgotPassword": "Forgot Password",
+  "@forgotPassword": {
+    "description": "Text for forgot password link"
+  },
+  "loginButton": "Login",
+  "@loginButton": {
+    "description": "Button text for login"
+  },
+  "doesNotHaveAccount": "Does not have account?",
+  "@doesNotHaveAccount": {
+    "description": "Text for 'Does not have account?'"
+  },
+  "alreadyHaveAccount": "Already have account?",
+  "@alreadyHaveAccount": {
+    "description": "Text for 'Already have account?'"
+  },
+  "welcomeTitle": "Welcome",
+  "@welcomeTitle": {
+    "description": "Title for the welcome screen"
+  },
+  "signUpButton": "Sign-up",
+  "@signUpButton": {
+    "description": "Button text for sign-up"
+  },
+  "fullNameLabel": "Full Name",
+  "@fullNameLabel": {
+    "description": "Label for full name input field"
+  },
+  "fullNameError": "First letter must be uppercase",
+  "@fullNameError": {
+    "description": "Error message for full name validation"
+  },
+  "emailLabel": "Email",
+  "@emailLabel": {
+    "description": "Label for email input field"
+  },
+  "emailError": "Please enter a valid email",
+  "@emailError": {
+    "description": "Error message for email validation"
+  },
+  "passwordLabel": "Password",
+  "@passwordLabel": {
+    "description": "Label for password input field"
+  },
+  "passwordError": "Password must be at least 6 characters long",
+  "@passwordError": {
+    "description": "Error message for password validation"
+  },
+  "confirmPasswordLabel": "Confirm Password",
+  "@confirmPasswordLabel": {
+    "description": "Label for confirm password input field"
+  },
+  "passwordMismatchError": "Passwords do not match",
+  "@passwordMismatchError": {
+    "description": "Error message for password mismatch"
+  },
+  "signUpSuccess": "Account created successfully",
+  "@signUpSuccess": {
+    "description": "Success message for sign-up"
+  },
+  "signInSuccess": "Account sign-in successfully",
+  "@signInSuccess": {
+    "description": "Success message for sign-in"
+  },
+  "successTitle": "Success",
+  "@successTitle": {
+    "description": "Title for success dialog"
+  },
+  "closeButton": "Close",
+  "@closeButton": {
+    "description": "Button text for closing dialog"
+  },
+  "ourProductsTitle": "Our Products",
+  "@ourProductsTitle": {
+    "description": "Title for the products screen"
+  },
+  "itemAddedToCart": "Item added to the cart",
+  "@itemAddedToCart": {
+    "description": "Message when item is added to cart"
+  },
+  "hotOffersTitle": "Hot Offers",
+  "@hotOffersTitle": {
+    "description": "Title for hot offers section"
+  },
+  "offerText": "Offer {number}",
+  "@offerText": {
+    "description": "Text for an offer",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "offerDescription": "This is a hot offer!",
+  "@offerDescription": {
+    "description": "Description for an offer"
+  },
+  "yourCartTitle": "Your Cart",
+  "@yourCartTitle": {
+    "description": "Title for the cart screen"
+  },
+  "totalText": "Total",
+  "@totalText": {
+    "description": "Text for total amount in cart"
+  },
+  "orderNowButton": "ORDER NOW",
+  "@orderNowButton": {
+    "description": "Button text for ordering now"
+  },
+  "resetPasswordTitle": "Reset Password",
+  "@resetPasswordTitle": {
+    "description": "Title for reset password screen"
+  },
+  "sendResetLinkButton": "Reset Password",
+  "@sendResetLinkButton": {
+    "description": "Button text for reset password"
+  },
+  "resetLinkSentMessage": "If an account exists for that email, we've sent a reset link.",
+  "@resetLinkSentMessage": {
+    "description": "Message when reset link is sent"
+  },
+  "resetPasswordSuccess": "Password reset successfully! You can now sign in with your new password.",
+  "@resetPasswordSuccess": {
+    "description": "Success message for password reset"
+  },
+  "shoppingAppTitle": "Shopping App",
+  "@shoppingAppTitle": {
+    "description": "Main app title"
+  },
+  "welcomeToOurStore": "Welcome to Our Store",
+  "@welcomeToOurStore": {
+    "description": "Welcome message on welcome screen"
+  },
+  "discoverProducts": "Discover amazing products and deals",
+  "@discoverProducts": {
+    "description": "Subtitle on welcome screen"
+  },
+  "joinCustomers": "Join thousands of happy customers",
+  "@joinCustomers": {
+    "description": "Footer text on welcome screen"
+  },
+  "welcomeBack": "Welcome Back!",
+  "@welcomeBack": {
+    "description": "Welcome back message for login"
+  },
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Create account title for signup"
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button text"
+  },
+  "resetYourPassword": "Reset Your Password",
+  "@resetYourPassword": {
+    "description": "Reset password screen title"
+  },
+  "enterDetailsToReset": "Enter your details to reset your password",
+  "@enterDetailsToReset": {
+    "description": "Reset password screen subtitle"
+  },
+  "usernameOptional": "Username (optional)",
+  "@usernameOptional": {
+    "description": "Username field hint for reset password"
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "description": "New password field label"
+  },
+  "confirmNewPassword": "Confirm New Password",
+  "@confirmNewPassword": {
+    "description": "Confirm new password field label"
+  },
+  "specialOffer": "Special Offer {number}",
+  "@specialOffer": {
+    "description": "Special offer text",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "amazingDeals": "Amazing deals and discounts on selected items. Don't miss out!",
+  "@amazingDeals": {
+    "description": "Offer description text"
+  }
+}

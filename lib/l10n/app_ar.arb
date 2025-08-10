@@ -1,0 +1,208 @@
+{
+  "sampleAppTitle": "تطبيق تجريبي",
+  "@sampleAppTitle": {
+    "description": "عنوان شريط التطبيق في شاشة المصادقة"
+  },
+  "tutorialKartTitle": "TutorialKart",
+  "@tutorialKartTitle": {
+    "description": "عنوان TutorialKart في شاشة المصادقة"
+  },
+  "signInText": "تسجيل الدخول",
+  "@signInText": {
+    "description": "نص قسم تسجيل الدخول"
+  },
+  "userNameLabel": "اسم المستخدم",
+  "@userNameLabel": {
+    "description": "تسمية حقل إدخال اسم المستخدم"
+  },
+  "forgotPassword": "هل نسيت كلمة المرور؟",
+  "@forgotPassword": {
+    "description": "نص رابط نسيت كلمة المرور"
+  },
+  "loginButton": "تسجيل الدخول",
+  "@loginButton": {
+    "description": "نص زر تسجيل الدخول"
+  },
+  "doesNotHaveAccount": "ليس لديك حساب؟",
+  "@doesNotHaveAccount": {
+    "description": "نص 'ليس لديك حساب؟'"
+  },
+  "alreadyHaveAccount": "هل لديك حساب بالفعل؟",
+  "@alreadyHaveAccount": {
+    "description": "نص 'هل لديك حساب بالفعل؟'"
+  },
+  "welcomeTitle": "أهلاً وسهلاً",
+  "@welcomeTitle": {
+    "description": "عنوان شاشة الترحيب"
+  },
+  "signUpButton": "إنشاء حساب",
+  "@signUpButton": {
+    "description": "نص زر إنشاء حساب"
+  },
+  "fullNameLabel": "الاسم الكامل",
+  "@fullNameLabel": {
+    "description": "تسمية حقل إدخال الاسم الكامل"
+  },
+  "fullNameError": "يجب أن يكون الحرف الأول كبيراً",
+  "@fullNameError": {
+    "description": "رسالة خطأ للتحقق من صحة الاسم الكامل"
+  },
+  "emailLabel": "البريد الإلكتروني",
+  "@emailLabel": {
+    "description": "تسمية حقل إدخال البريد الإلكتروني"
+  },
+  "emailError": "الرجاء إدخال بريد إلكتروني صالح",
+  "@emailError": {
+    "description": "رسالة خطأ للتحقق من صحة البريد الإلكتروني"
+  },
+  "passwordLabel": "كلمة المرور",
+  "@passwordLabel": {
+    "description": "تسمية حقل إدخال كلمة المرور"
+  },
+  "passwordError": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+  "@passwordError": {
+    "description": "رسالة خطأ للتحقق من صحة كلمة المرور"
+  },
+  "confirmPasswordLabel": "تأكيد كلمة المرور",
+  "@confirmPasswordLabel": {
+    "description": "تسمية حقل إدخال تأكيد كلمة المرور"
+  },
+  "passwordMismatchError": "كلمات المرور غير متطابقة",
+  "@passwordMismatchError": {
+    "description": "رسالة خطأ لعدم تطابق كلمة المرور"
+  },
+  "signUpSuccess": "تم إنشاء الحساب بنجاح",
+  "@signUpSuccess": {
+    "description": "رسالة نجاح لإنشاء الحساب"
+  },
+  "signInSuccess": "تم تسجيل الدخول بنجاح",
+  "@signInSuccess": {
+    "description": "رسالة نجاح لتسجيل الدخول"
+  },
+  "successTitle": "نجاح",
+  "@successTitle": {
+    "description": "عنوان مربع حوار النجاح"
+  },
+  "closeButton": "إغلاق",
+  "@closeButton": {
+    "description": "نص زر إغلاق مربع الحوار"
+  },
+  "ourProductsTitle": "منتجاتنا",
+  "@ourProductsTitle": {
+    "description": "عنوان شاشة المنتجات"
+  },
+  "itemAddedToCart": "تمت إضافة المنتج إلى السلة",
+  "@itemAddedToCart": {
+    "description": "رسالة عند إضافة المنتج إلى السلة"
+  },
+  "hotOffersTitle": "العروض الساخنة",
+  "@hotOffersTitle": {
+    "description": "عنوان قسم العروض الحصرية"
+  },
+  "offerText": "عرض {number}",
+  "@offerText": {
+    "description": "نص العرض",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "offerDescription": "هذا عرض حصري!",
+  "@offerDescription": {
+    "description": "وصف العرض"
+  },
+  "yourCartTitle": "سلتك",
+  "@yourCartTitle": {
+    "description": "عنوان شاشة السلة"
+  },
+  "totalText": "الإجمالي",
+  "@totalText": {
+    "description": "نص المبلغ الإجمالي في السلة"
+  },
+  "orderNowButton": "اطلب الآن",
+  "@orderNowButton": {
+    "description": "نص زر اطلب الآن"
+  },
+  "resetPasswordTitle": "إعادة تعيين كلمة المرور",
+  "@resetPasswordTitle": {
+    "description": "عنوان شاشة إعادة تعيين كلمة المرور"
+  },
+  "sendResetLinkButton": "إعادة تعيين كلمة المرور",
+  "@sendResetLinkButton": {
+    "description": "نص زر إعادة تعيين كلمة المرور"
+  },
+  "resetLinkSentMessage": "إذا كان هناك حساب لهذا البريد، فقد تم إرسال رابط إعادة التعيين.",
+  "@resetLinkSentMessage": {
+    "description": "رسالة عند إرسال رابط إعادة التعيين"
+  },
+  "resetPasswordSuccess": "تم إعادة تعيين كلمة المرور بنجاح! يمكنك الآن تسجيل الدخول بكلمة المرور الجديدة.",
+  "@resetPasswordSuccess": {
+    "description": "رسالة نجاح إعادة تعيين كلمة المرور"
+  },
+  "shoppingAppTitle": "تطبيق التسوق",
+  "@shoppingAppTitle": {
+    "description": "عنوان التطبيق الرئيسي"
+  },
+  "welcomeToOurStore": "أهلاً وسهلاً بك في متجرنا",
+  "@welcomeToOurStore": {
+    "description": "رسالة الترحيب في شاشة الترحيب"
+  },
+  "discoverProducts": "اكتشف منتجات وعروض مذهلة",
+  "@discoverProducts": {
+    "description": "العنوان الفرعي في شاشة الترحيب"
+  },
+  "joinCustomers": "انضم إلى آلاف العملاء السعداء",
+  "@joinCustomers": {
+    "description": "نص التذييل في شاشة الترحيب"
+  },
+  "welcomeBack": "أهلاً بعودتك!",
+  "@welcomeBack": {
+    "description": "رسالة الترحيب بالعودة لتسجيل الدخول"
+  },
+  "createAccount": "إنشاء حساب",
+  "@createAccount": {
+    "description": "عنوان إنشاء حساب للتسجيل"
+  },
+  "signIn": "تسجيل الدخول",
+  "@signIn": {
+    "description": "نص زر تسجيل الدخول"
+  },
+  "signUp": "إنشاء حساب",
+  "@signUp": {
+    "description": "نص زر إنشاء حساب"
+  },
+  "resetYourPassword": "إعادة تعيين كلمة المرور",
+  "@resetYourPassword": {
+    "description": "عنوان شاشة إعادة تعيين كلمة المرور"
+  },
+  "enterDetailsToReset": "أدخل بياناتك لإعادة تعيين كلمة المرور",
+  "@enterDetailsToReset": {
+    "description": "العنوان الفرعي لشاشة إعادة تعيين كلمة المرور"
+  },
+  "usernameOptional": "اسم المستخدم (اختياري)",
+  "@usernameOptional": {
+    "description": "تلميح حقل اسم المستخدم لإعادة تعيين كلمة المرور"
+  },
+  "newPassword": "كلمة المرور الجديدة",
+  "@newPassword": {
+    "description": "تسمية حقل كلمة المرور الجديدة"
+  },
+  "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+  "@confirmNewPassword": {
+    "description": "تسمية حقل تأكيد كلمة المرور الجديدة"
+  },
+  "specialOffer": "عرض خاص {number}",
+  "@specialOffer": {
+    "description": "نص العرض الخاص",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "amazingDeals": "عروض وخصومات مذهلة على منتجات مختارة. لا تفوت الفرصة!",
+  "@amazingDeals": {
+    "description": "نص وصف العرض"
+  }
+}
