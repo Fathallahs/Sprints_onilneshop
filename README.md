@@ -178,23 +178,23 @@ dev_dependencies:
 ## 📱 Screenshots
 
 ### 🏠 Home Screen Features
-![Home Screen English](screenshots/01_home_screen_english.png)
-*Home screen showing "Our Products" with PageView, GridView, and Hot Offers section*
+![Home Screen English](screenshots/A.png)
+*Home screen showing "Our Products" with featured red shirt, product grid including Red Shirt ($29.99) and Trousers ($59.99), and Hot Offers section with Special Offer 1*
 
-![Home Screen Arabic](screenshots/02_home_screen_arabic.png)
-*Arabic language support with RTL layout and localized text "منتجاتنا" and "العروض الساخنة"*
+![Home Screen Arabic](screenshots/B.png)
+*Arabic language support with RTL layout showing "منتجاتنا" (Our Products) and "العروض الساخنة" (Hot Offers) with language picker displaying English/العربية options*
 
 ### 🎯 Welcome & Authentication
-![Welcome Screen](screenshots/03_welcome_screen.png)
-*Welcome screen with "Shopping App" title, custom styling, and responsive image layout*
+![Welcome Screen](screenshots/C.png)
+*Welcome screen with "Shopping App" title, "Welcome to Our Store" message, product showcase images, and Sign Up/Sign In buttons*
 
-![Sign Up Screen](screenshots/04_signup_screen.png)
-*Create Account form with Full Name, Email, Password, and Confirm Password validation*
+![Sign Up Screen](screenshots/D.png)
+*Create Account form with shopping bag icon, Full Name, Email, Password, and Confirm Password fields with validation*
 
-![Sign In Screen](screenshots/05_signin_screen.png)
-*Sign In form with "Welcome Back!" message and "Forgot Password" functionality*
+![Sign In Screen](screenshots/E.png)
+*Sign In form with "Welcome Back!" message, Email and Password fields, "Forgot Password" link, and "Sign Up" option*
 
-> **Note**: Screenshots showcase the complete app functionality including English/Arabic language support, authentication flows, and shopping features.
+> **Note**: Screenshots showcase the complete app functionality including English/Arabic language support, authentication flows, product browsing, and shopping features with real product data.
 
 ## 🔧 Technical Features
 

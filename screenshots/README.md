@@ -41,6 +41,3 @@ This directory contains screenshots of the Flutter Shopping App demonstrating al
    - Blue gradient "Sign In" button
    - "Does not have account? Sign Up" link
 
-## How to Add Screenshots:
-
-Replace the placeholder files in this directory with the actual PNG screenshots from your device/emulator.

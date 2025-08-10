@@ -66,4 +66,3 @@ screenshots/
 └── .gitkeep
 ```
 
-The README.md already has the correct image references, so once you add the PNG files, they will display properly on GitHub!
