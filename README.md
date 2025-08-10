@@ -108,8 +108,8 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[username]/flutter-shopping-app.git
-   cd flutter-shopping-app
+   git clone https://github.com/Fathallahs/Sprints_onilneshop.git
+   cd Sprints_onilneshop
    ```
 
 2. **Install dependencies**
